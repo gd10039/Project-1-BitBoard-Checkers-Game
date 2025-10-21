@@ -17,4 +17,4 @@ make
 - `w` save (`save.chk`), `x` load, `q` quit
 
 ## Pieces
-- `r/b` = men, `R/B` = kings, `.` = empty
+- `r/b` = normal pieces, `R/B` = kings, `.` = empty
