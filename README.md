@@ -6,7 +6,7 @@ The game runs entirely in the terminal and lets two players take turns moving th
 
 ---
 
-## 🧱 How It Works
+##  How It Works
 - The board is represented with 64 bits, one for each square.
 - Moves and captures are handled through bitwise operations.
 - Pieces are automatically promoted to kings when they reach the opposite side.
@@ -14,7 +14,7 @@ The game runs entirely in the terminal and lets two players take turns moving th
 
 ---
 
-## 🕹️ How to Play
+##  How to Play
 1. **Build the program**  
    ```bash
    make
@@ -31,7 +31,7 @@ The game runs entirely in the terminal and lets two players take turns moving th
 
 ---
 
-## 🎯 Game Rules
+##  Game Rules
 - Player 1 uses **r/R** (red) pieces and moves upward.  
 - Player 2 uses **b/B** (black) pieces and moves downward.  
 - Lowercase letters (`r`, `b`) are regular pieces; uppercase (`R`, `B`) are kings.  
@@ -40,7 +40,7 @@ The game runs entirely in the terminal and lets two players take turns moving th
 
 ---
 
-## 🧩 Files Included
+##  Files Included
 - `main.c`, `ui.c`, `ui.h` — User interface and input handling  
 - `bitboard.c`, `bitboard.h` — Core logic and board manipulation  
 - `Makefile` — Simple build script  
