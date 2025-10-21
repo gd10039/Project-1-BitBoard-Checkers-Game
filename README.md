@@ -1,6 +1,6 @@
 # Bitboard Checkers (C)
 
-Minimal checkers using 64-bit bitboards. Built for CS 3503 Project 1.
+Standard checkers game built for Project 1.
 
 ## Build
 ```bash
