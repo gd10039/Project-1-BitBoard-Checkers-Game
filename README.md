@@ -48,5 +48,3 @@ The game runs entirely in the terminal and lets two players take turns moving th
 
 ---
 
-## 💡 Notes
-This is a minimal but functional implementation designed to demonstrate how bitwise operations can model a full game. It focuses on clarity and correctness over fancy features.
